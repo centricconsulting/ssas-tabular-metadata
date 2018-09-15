@@ -30,7 +30,7 @@ Name of the cube table.   |Type of element: {**`column`** or **`measure`**}. |Na
 
 The term **{property}** corresponds to JSON properties used withing in the BIM file. Inspection of your BIM file is the best way to identify the full list of available properties. Common properties of columns and measures are **`description`**, **`formatString`**, **`displayFolder`**. **Properties names are case sensitive**
 
-The CSV can support as many properties (1..n) as you wish to specify in the file.
+The CSV can support as many properties (1..n) as you wish to specify in the file.  Properties are added by creating a column in the CSV with the property name.
 
 Blank property values will be ignored by the utility. In other words, if there is an original property value in-place, a blank property value in the CSV will not erase the original.
 
