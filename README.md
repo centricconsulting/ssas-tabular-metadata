@@ -1,4 +1,4 @@
-# SSAS Tabular Metadata
+# Tabular Metadata Utility
 ## Overview
 The **Tabular Metadata Utility** alters column and measure properties of a SQL Server Analysis Services Tabular Model.  This is accomplished by altering the JSON in the Visual Studio project BIM file.
 
