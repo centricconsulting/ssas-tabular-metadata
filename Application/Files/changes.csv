@@ -1,0 +1,5 @@
+﻿table,elementType,elementName,displayFolder,formatString,description
+Policy Detail,column,Policy Tran Type,XYZ,,This is a test 1
+Policy Detail,column,Renewal Flag,ABC,,This is a test 2
+Policy Detail,measure,WP,New Metrics,"\\$#,0;(\\$#,0);\\$#,0",This is a test 3
+Underwriting State,column,Underwriting State Code,Hello,,This is a test 4

@@ -1,0 +1,1 @@
+TabularMetadata.exe -i "Files\model.bim" -c "Files\changes.csv" -o "Files\model2.bim"
