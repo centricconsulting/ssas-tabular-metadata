@@ -53,6 +53,6 @@ Transform an input BIM file into a different output BIM file.
 **```TabularMetdata.exe -i "model.bim" -c "changes.csv" -o "model2.bim"```**
 
 **Example 2**
-Transform an input BIM file and the overwrite the input BIM file with its changed version.
+Transform an input BIM file and then overwrite the input BIM file with its changed version.
 
 **```TabularMetdata.exe -i "model.bim" -c "changes.csv" -w```**
