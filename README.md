@@ -28,6 +28,8 @@ Name of the cube table.   |Type of element: {**`column`** or **`measure`**}. |Na
 
 **`‡`** indicates that a value is required in each row of the CSV.
 
+An example of the CSV file can be found [here](https://github.com/centricconsulting/ssas-tabular-metadata/blob/master/Application/Files/changes.csv).
+
 The term **{property}** corresponds to JSON properties used withing in the BIM file. Inspection of your BIM file is the best way to identify the full list of available properties. Common properties of columns and measures are **`description`**, **`formatString`**, **`displayFolder`**. **Properties names are case sensitive**
 
 The CSV can support as many properties (1..n) as you wish to specify in the file.  Properties are added by creating a column in the CSV with the property name.
